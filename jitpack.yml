@@ -1,2 +1,2 @@
 install:
-  - mvn install:install-file -Dfile=core-1.12.1.aar -DgroupId=com.bloodsugar -DartifactId=core -Dversion=1.12.1 -Dpackaging=aar -DgeneratePom=true -DpomFile=core-1.12.1.pom
+  - mvn install:install-file -Dfile=core-1.12.2.aar -DgroupId=com.bloodsugar -DartifactId=core -Dversion=1.12.2 -Dpackaging=aar -DgeneratePom=true -DpomFile=core-1.12.2.pom
